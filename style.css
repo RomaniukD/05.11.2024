@@ -1,0 +1,49 @@
+
+.box1 {
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.box2 {
+    background-image: url("tlo.jpg");
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.box3 {
+    background-image: url('tlo.jpg');
+    background-repeat: repeat-x; 
+    padding: 20px;
+    text-align: center;
+}
+
+
+.box4 {
+    background-image: url('tlo.jpg');
+    background-position: left bottom; 
+    background-repeat: no-repeat; 
+    padding: 20px;
+    text-align: center;
+}
+
+
+.box5 {
+    background-image: url('tlo.jpg');
+    background-size: cover; 
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.box6 {
+    background-image: url('tlo.jpg');
+    background-attachment: fixed; 
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
